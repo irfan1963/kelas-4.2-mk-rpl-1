@@ -1,0 +1,12 @@
+Nama : Irfan Maulana
+NPM : 21105111042
+Kelas : 4.2
+MK : Rekayasa perangkat lunak I
+
+Pengertian Git
+GIT adalah sebuah tools bagi para programmer dan developer yang berfungsi sebagai control
+system untuk menjalankan proyek pengembangan software. GIT adalah singkatan dari Group
+Inclusive Tour. Tujuan penggunaan GIT yakni untuk mengelola versi source code program 
+dengan menentukan baris serta kode yang akan ditambahkan atau diganti.
+
+URL : irfan1963/kelas-4.2-mk-rpl-1/new/main
